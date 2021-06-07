@@ -7,7 +7,7 @@ Bot with Selenium and JavaScript to fill form with data extracted from excel fil
 - Npm 7.16.0
 
 ## Selenium driver
-Must download and install driver for Firefox without link to follow: 
+You must download and install the driver for Firefox, follow the link: 
 [https://github.com/mozilla/geckodriver/releases/](https://github.com/mozilla/geckodriver/releases/)
 
 ## install
